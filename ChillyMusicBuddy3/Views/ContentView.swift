@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  ChillyMusicBuddy3
+//  ChillyMusicBuddy2
 //
 //  Created by Huy Le on 12/19/24.
 //
